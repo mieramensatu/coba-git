@@ -9,3 +9,5 @@ console.log(multiply(1, 2));
 
 const divide = (a, b) => a / b;     
 console.log(divide(1, 2));
+
+console.log('Hello World!');
