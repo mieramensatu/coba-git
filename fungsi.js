@@ -11,3 +11,9 @@ console.log(multiply(1, 2));
 
 const divide = (a, b) => a / b;
 console.log(divide(4, 2));
+
+const divide1 = (a, b) => a / b;     
+console.log(divide1(1, 2));
+
+console.log('Hello World!');
+
